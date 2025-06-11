@@ -1,0 +1,1 @@
+# day6-basic-js-faiza
